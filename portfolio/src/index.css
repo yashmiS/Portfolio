@@ -1,0 +1,7 @@
+/* when we traget every element in web page use * */
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
