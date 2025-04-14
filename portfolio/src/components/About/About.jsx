@@ -25,7 +25,7 @@ function About() {
                 </div>
             </li>
             <li className={styles.aboutImage}>
-                <img src='assets/about/serverIcon.png' alt='Server'/>
+                <img src='assets/about/uiIcon.png' alt='UI'/>
                 <div>
                   <h3>UI Designer</h3>
                   <p>I have desinged multiple landing pages and have systems as well.</p>
