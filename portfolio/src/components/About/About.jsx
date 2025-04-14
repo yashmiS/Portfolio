@@ -5,7 +5,7 @@ import styles from './About.module.css'
 function About() {
   return (
     <section className={styles.container} id='about'>
-        <h2 className={title}>About</h2>
+        <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
           <img src='assets/about/aboutImage.png' alt='Me sitting with a laptop'
           className={styles.aboutImage}/>
